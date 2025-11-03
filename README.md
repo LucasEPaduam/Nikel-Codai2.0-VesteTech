@@ -24,7 +24,7 @@ Nikel é um sistema web para controle financeiro pessoal, desenvolvido para faci
 
 ### Home - Dashboard
 
-![Home - Dashboard](public/assets/images/preview/home-dashboard.png)
+![Home - Dashboard](https://github.com/LucasEPaduam/Nikel-Codai2.0-VesteTech/blob/master/assets/preview/home.png)
 
 ### Login
 
