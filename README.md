@@ -22,17 +22,17 @@ Nikel é um sistema web para controle financeiro pessoal, desenvolvido para faci
 
 ## Screenshots
 
+### Login
+
+![Login](https://github.com/LucasEPaduam/Nikel-Codai2.0-VesteTech/blob/master/assets/preview/login.png)
+
 ### Home - Dashboard
 
 ![Home - Dashboard](https://github.com/LucasEPaduam/Nikel-Codai2.0-VesteTech/blob/master/assets/preview/home.png)
 
-### Login
-
-![Login](public/assets/images/preview/login.png)
-
 ### Lançamentos
 
-![Lançamentos](public/assets/images/preview/lancamentos.png)
+![Lançamentos](https://github.com/LucasEPaduam/Nikel-Codai2.0-VesteTech/blob/master/assets/preview/transactions.png)
 
 ## Detalhes Técnicos
 
